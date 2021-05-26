@@ -1,7 +1,7 @@
 # Word-Array-List-Example
   
   
-The goal of this progam is to:
+The goal of this program is to:
 
 Count all the occurrences of words in a '"tale.txt". 
 Store each word in lowercase format. 
