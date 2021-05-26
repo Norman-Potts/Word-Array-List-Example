@@ -1,13 +1,14 @@
 # Word-Array-List-Example
   
   
-The goal of this progam.
+The goal of this progam is to:
+
 Count all the occurrences of words in a '"tale.txt". 
 Store each word in lowercase format. 
 A word will be considered to be one or more characters in length separated 
 by white space (space character, the new line character). 
 All commas, periods, exclamation points, question marks, and quotes are ignored.
-Print an out put that answers the following. 
+Print an output that answers the following. 
 
 1. Total # of different words
 2. Total # of words
