@@ -8,6 +8,7 @@ A word will be considered to be one or more characters in length separated
 by white space (space character, the new line character). 
 All commas, periods, exclamation points, question marks, and quotes are ignored.
 Print an out put that answers the following. 
+
      1. Total # of different words
      2. Total # of words
      3. The list of the 10 most frequent words and counts
